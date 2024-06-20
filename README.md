@@ -2,7 +2,7 @@
 
 Welcome to the **AajTak Web App**! This application brings you the latest news from AajTak using the News API. Built with React.js, it's designed to provide you with a seamless and engaging news reading experience.
 
-![AajTak Logo](https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Aaj_Tak_logo.svg/2560px-Aaj_Tak_logo.svg.png)
+
 
 ## 🌟 Features
 
